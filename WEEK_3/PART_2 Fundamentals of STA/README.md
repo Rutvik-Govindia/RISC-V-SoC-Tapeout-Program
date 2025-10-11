@@ -23,7 +23,7 @@ If STA is a new topic, a foundational course is recommended:
 - Course: STA Fundamentals - Udemy (Link and coupon code provided in the original task document).
 
 **Key Concepts to Summarize**
-The final deliverable for Part 2 is a one-page summary or key notes focusing on the following areas:
+
 - **Setup Check:** Ensures data at the sequential element's input is stable before the active clock edge arrives. This check is crucial to prevent "too slow" data paths and ensure data is captured correctly by the next clock.
 - **Hold Check:** Ensures data at the sequential element's input remains stable after the active clock edge. This check prevents "too fast" data paths that could violate the data integrity during the clock transition.
 - **Slack:** The difference between the required time and the arrival time of a signal.
