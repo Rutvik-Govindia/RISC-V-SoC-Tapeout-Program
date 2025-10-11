@@ -47,3 +47,10 @@ Negative Slack: A timing violation has occurred (Fail). This value indicates how
 Clock Definitions: Involves the proper specification of the clock period, waveform, source, and clock uncertainty (jitter and skew) for accurate timing analysis.
 
 Path-Based Analysis: STA analyzes every possible timing path (Data, Input, Output, Pin-to-Pin) in the design to ensure all meet the defined constraints.
+
+Deliverable Requirements
+Content: A one-page summary or key notes covering the concepts listed above.
+
+Format: Bullet points are acceptable.
+
+Tool (for practicals): The task mentions using OpenSTA for practical experiments.
