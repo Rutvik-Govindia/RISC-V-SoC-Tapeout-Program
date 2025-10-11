@@ -1,4 +1,4 @@
-**Week 3 Task: Post-Synthesis GLS & STA Fundamentals**
+**Post-Synthesis GLS & STA Fundamentals**
 
 This repository/document outlines the objectives, tools, and deliverables for Week 3, focusing on the essential steps following logic synthesis: Gate-Level Simulation (GLS) and Static Timing Analysis (STA) fundamentals.
 
