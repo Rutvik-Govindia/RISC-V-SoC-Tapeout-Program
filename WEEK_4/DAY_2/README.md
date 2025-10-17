@@ -38,3 +38,8 @@ This overarching theme indicates a study of how **velocity saturation** impacts 
     * **The $I_D$ Equation:** The resulting equation shows that in saturation, the drain current becomes approximately **proportional to $(V_{GS} - V_t)$** (linear dependence) rather than $(V_{GS} - V_t)^2$ (quadratic dependence). This change is crucial for modern circuit design, especially for analog circuits.
 
 These topics form a comprehensive overview of how one of the most critical **short-channel effects**—velocity saturation—is understood, modeled mathematically, and incorporated into electronic circuit simulation tools like SPICE.
+
+---
+
+## 22-L5 22- L5 Labs Sky130 Id-Vgs
+
