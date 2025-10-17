@@ -489,5 +489,9 @@ This setup allows you to **sweep VIN** and observe **I<sub>D</sub>–V<sub>GS</s
 
 ---
 
-*“First Spice Simulation”*:
+*### **16–L4:First Spice Simulation**
 
+<img width="1056" height="185" alt="1 gitclone sky130" src="https://github.com/user-attachments/assets/2d6f01c4-c6d0-412f-a554-65f125498b82" />
+<img width="1215" height="683" alt="4 plot -vdd#branch" src="https://github.com/user-attachments/assets/ff19c1a7-9f85-476e-a615-6e7d7eb1fb47" />
+<img width="1071" height="625" alt="3 ngspice sky130" src="https://github.com/user-attachments/assets/42f514c5-a260-4249-9ec5-96e11fab0ea6" />
+<img width="1023" height="468" alt="2 sudo apt install ngspice" src="https://github.com/user-attachments/assets/ae7b0f08-93f1-4cd7-84dd-a50cf518b6a9" />
