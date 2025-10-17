@@ -41,7 +41,7 @@ These topics form a comprehensive overview of how one of the most critical **sho
 
 ---
 
-## 22-L5 22- L5 Labs Sky130 Id-Vgs
+## 22-L5 Labs Sky130 Id-Vgs
 
 <img width="1215" height="683" alt="1 ngspice day_2 vds" src="https://github.com/user-attachments/assets/7025632e-95c1-4375-9171-1004b2200149" />
 
@@ -53,5 +53,5 @@ These topics form a comprehensive overview of how one of the most critical **sho
 
 ---
 
-## 23-L6 22- L6 Labs Sky130 Vt
+## 23-L6 Labs Sky130 Vt
 
