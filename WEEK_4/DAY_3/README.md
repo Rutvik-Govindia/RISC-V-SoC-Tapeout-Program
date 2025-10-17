@@ -33,3 +33,46 @@ This section transitions from the mathematical and graphical analysis of the CMO
 
 ## 32-L3 Labs Sky130 SPICE simulation for CMOS
 
+-> ngspice day3_inv_vtc_Wp084_Wn036.spice
+
+<img width="1215" height="683" alt="1 ngspice day_3 vtc" src="https://github.com/user-attachments/assets/95ef629e-93e1-431c-a693-4ac093512633" />
+
+-> plot out vs in
+
+<img width="1215" height="683" alt="2 plot out vs in" src="https://github.com/user-attachments/assets/ba3fe415-7653-4bb4-855f-f0792c6da162" />
+
+-> Zoomed plot out vs in
+
+<img width="1212" height="685" alt="3 zoomed plot out vs in" src="https://github.com/user-attachments/assets/379e38d1-7a70-4cf7-8de6-6ae37a78a4df" />
+
+-> Switching Thresold Value
+
+<img width="616" height="417" alt="4 switching thresold value" src="https://github.com/user-attachments/assets/823a73db-f41d-4b20-8a30-12f24d0987ab" />
+
+-> day3_inv_tran_Wp084_Wn036.spice
+
+<img width="1216" height="685" alt="5 ngspice day_3 tran" src="https://github.com/user-attachments/assets/8c6b5f6d-0f78-402a-802c-02a18f65ff63" />
+
+-> plot out vs time in
+
+<img width="1216" height="685" alt="6 plot out vs time in" src="https://github.com/user-attachments/assets/e626dee9-8c3d-4381-be4d-c3a0ebf65651" />
+
+-> Zoomed plot out vs time in to calculate Rise Delay
+
+<img width="1216" height="685" alt="7 zoomed plot out vs time in" src="https://github.com/user-attachments/assets/5bd97ba3-724a-4607-966d-0d4cc0edc79f" />
+
+-> Calculating Rise Delay
+
+<img width="545" height="198" alt="8 Calculating Rise Delay" src="https://github.com/user-attachments/assets/e85c8727-3e26-4544-b1dc-e768e7b3be01" />
+
+Therefore; Rise Delay = 2.48 - 2.15 = 0.33
+
+-> Zoomed plot out vs time in to calculate Fall Delay
+
+<img width="1214" height="683" alt="9 Zoomed plot out vs time in to Calculat Fall Delay" src="https://github.com/user-attachments/assets/3e026ac4-e398-447b-bdc9-f72d61bc9c9d" />
+
+-> Calculating Fall Delay
+
+<img width="332" height="99" alt="10 Calculating Fall Delay" src="https://github.com/user-attachments/assets/0a947cd0-cc8f-4fdd-9853-84b38cc6b8a0" />
+
+Therefore; Fall Delay = 4.33 - 4.05 = 0.28
