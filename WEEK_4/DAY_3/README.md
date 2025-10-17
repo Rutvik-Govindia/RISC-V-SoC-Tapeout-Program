@@ -28,3 +28,8 @@ This section transitions from the mathematical and graphical analysis of the CMO
         * Do this in defined increments.
     2.  **Output Specification:** The simulator is instructed to calculate and record the voltage at the **output node ($\boldsymbol{V_{out}}$)** for every step of the $\boldsymbol{V_{in}}$ sweep.
 * **Outcome:** The SPICE simulator generates a data file that lists pairs of ($\boldsymbol{V_{in}}$, $\boldsymbol{V_{out}}$) values. This data is then used to plot the classic **S-shaped VTC curve**. The simulation results are used to determine practical metrics such as the noise margins ($NM_H$ and $NM_L$), the switching threshold ($V_M$), and the gain in the transition region.
+
+---
+
+## 32-L3 Labs Sky130 SPICE simulation for CMOS
+
