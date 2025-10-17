@@ -55,3 +55,6 @@ These topics form a comprehensive overview of how one of the most critical **sho
 
 ## 23-L6 Labs Sky130 Vt
 
+<img width="1215" height="683" alt="3 ngspice day_2 vgs" src="https://github.com/user-attachments/assets/9c636fa3-a6b6-4325-8b5d-bd1e7ad89fd7" />
+
+<img width="1215" height="683" alt="4 plot -vdd#branch" src="https://github.com/user-attachments/assets/2c9a9b24-979f-4e46-8c04-39d4cccdf439" />
