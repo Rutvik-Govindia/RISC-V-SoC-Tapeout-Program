@@ -43,3 +43,15 @@ These topics form a comprehensive overview of how one of the most critical **sho
 
 ## 22-L5 22- L5 Labs Sky130 Id-Vgs
 
+<img width="1215" height="683" alt="1 ngspice day_2 vds" src="https://github.com/user-attachments/assets/7025632e-95c1-4375-9171-1004b2200149" />
+
+<img width="1215" height="683" alt="2 plot -vdd#branch" src="https://github.com/user-attachments/assets/f7419aa0-4378-45f8-a890-be7a3563154f" />
+
+<img width="1215" height="683" alt="3 ngspice day_2 vgs" src="https://github.com/user-attachments/assets/6af21bed-fe4e-421e-a043-0818b12eab3e" />
+
+<img width="1215" height="683" alt="4 plot -vdd#branch" src="https://github.com/user-attachments/assets/e7bc39ad-51dc-45f7-b356-059ec8b373fe" />
+
+---
+
+## 23-L6 22- L6 Labs Sky130 Vt
+
