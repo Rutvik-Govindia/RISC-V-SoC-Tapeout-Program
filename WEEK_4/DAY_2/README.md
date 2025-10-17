@@ -1,9 +1,3 @@
-That image appears to be a list of topics or sections from a presentation or course related to **SPICE simulation** and **MOSFET device physics**, specifically focusing on **velocity saturation** effects.
-
-Here is a detailed description and breakdown of what each of these points likely covers:
-
----
-
 ## SPICE Simulation and Velocity Saturation
 
 This overarching theme indicates a study of how **velocity saturation** impacts transistor behavior, both in theoretical models and when simulated using **SPICE (Simulation Program with Integrated Circuit Emphasis)**, a widely used electronic circuit simulator. Velocity saturation is a phenomenon in short-channel **MOSFETs** where, as the electric field across the channel increases, the carrier (electron or hole) drift velocity no longer increases proportionally, but instead reaches a maximum or "saturates." This limits the drain current.
