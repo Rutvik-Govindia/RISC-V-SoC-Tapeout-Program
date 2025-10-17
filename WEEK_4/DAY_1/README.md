@@ -488,3 +488,6 @@ This setup allows you to **sweep VIN** and observe **I<sub>D</sub>–V<sub>GS</s
 | **15–L3** | Define technology parameters        | How to describe MOSFET and process characteristics for accurate simulation |
 
 ---
+
+*“First Spice Simulation”*:
+
