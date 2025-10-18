@@ -52,6 +52,9 @@ This point is a design analysis, investigating how **sizing the pMOS transistor*
 
 -> Calculating Noice Margin by putting cursor on the graph
 <img width="296" height="100" alt="3 Calculating Noise Margin by putting cusror on the graph" src="https://github.com/user-attachments/assets/01f0acf4-ba5f-4113-967c-f7522977631d" />
+
 Therefore; Noise Margin High = 1.71 - 0.97 = 0.74
+
 And
+
 Noise Margin Low = 0.76 - 0.12 = 0.64
