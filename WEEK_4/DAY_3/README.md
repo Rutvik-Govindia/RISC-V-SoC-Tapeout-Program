@@ -76,3 +76,9 @@ Therefore; Rise Delay = 2.48 - 2.15 = 0.33
 <img width="332" height="99" alt="10 Calculating Fall Delay" src="https://github.com/user-attachments/assets/0a947cd0-cc8f-4fdd-9853-84b38cc6b8a0" />
 
 Therefore; Fall Delay = 4.33 - 4.05 = 0.28
+
+---
+
+## Static behavior evaluation – CMOS inverter robustness – Switching Threshold
+
+---
