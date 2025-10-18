@@ -82,3 +82,35 @@ Therefore; Fall Delay = 4.33 - 4.05 = 0.28
 ## Static behavior evaluation – CMOS inverter robustness – Switching Threshold
 
 ---
+
+### 33-L1 Switching Threshold, $V_m$
+
+This topic will introduce and define the **Switching Threshold ($V_m$)** of a **CMOS inverter**. The switching threshold is the input voltage ($V_{in}$) at which the output voltage ($V_{out}$) is equal to the input voltage, i.e., $V_{out} = V_{in}$. It is a critical metric for determining the robustness and noise margin of the inverter. It influences how reliably the inverter switches between logic '0' and logic '1'.
+
+### 34-L2 Analytical expression of $V_m$ as a function of $(W/L)_p$ and $(W/L)_n$
+
+This covers the **derivation of the mathematical formula** for the switching threshold ($V_m$). The expression will show how $V_m$ is related to the **aspect ratios** (the width-to-length ratios, $W/L$) of the **pMOS** transistor ($(W/L)_p$) and the **nMOS** transistor ($(W/L)_n$) within the inverter. The $W/L$ ratios are the primary design parameters used to size the transistors and determine the transistor's driving strength, which in turn dictates the switching point.
+
+### 35-L3 Analytical expression of $(W/L)_p$ and $(W/L)_n$ as a function of $V_m$
+
+This is the **re-arrangement of the formula** from the previous point. Here, the focus is on **design synthesis**. The topic will show how to **calculate the required $(W/L)$ ratio** for both the pMOS and nMOS transistors to achieve a **desired switching threshold ($V_m$)**. This is essential for designing a "symmetrical" or "skewed" inverter based on the performance and noise requirements.
+
+### 36-L4 Static and dynamic simulation of CMOS inverter
+
+This involves using **Electronic Design Automation (EDA) tools** (like SPICE) to analyze the inverter's performance.
+* **Static Simulation:** Focuses on the **DC analysis**, primarily generating the **Voltage Transfer Characteristic (VTC)** curve to verify the Switching Threshold ($V_m$) and **noise margins** ($NM_L$ and $NM_H$).
+* **Dynamic Simulation:** Focuses on the **transient analysis** to determine the **propagation delays** ($t_{pLH}$ and $t_{pHL}$) and overall switching speed of the inverter.
+
+### 37-L5 Static and dynamic simulation of CMOS inverter with increased PMOS width
+
+This is a **case study** extending the previous simulation. The analysis will investigate the impact of increasing the width (and thus the $(W/L)$ ratio) of the **pMOS transistor** on the inverter's performance.
+* **Static Impact:** Changing $(W/L)_p$ **shifts the switching threshold ($V_m$)** (skewing the inverter).
+* **Dynamic Impact:** Increasing $(W/L)_p$ generally **decreases the rise time ($t_{pLH}$)** but may **increase the fall time ($t_{pHL}$) slightly** due to increased input capacitance, requiring a new analysis of overall performance trade-offs.
+
+### 38-L6 Applications of CMOS inverter in clock network and STA
+
+This explores the practical use of the CMOS inverter in larger digital systems.
+* **Clock Network:** Inverters are crucial for **buffering and distributing the clock signal** throughout a chip. They are used to restore the clock signal's shape, provide the necessary driving strength, and ensure **minimal clock skew** (differences in arrival time).
+* **STA (Static Timing Analysis):** This topic will likely cover how the characteristics of the CMOS inverter (especially its propagation delay and output transition times) are **modeled and used by STA tools** to verify that the digital circuit meets its timing requirements.
+
+---
