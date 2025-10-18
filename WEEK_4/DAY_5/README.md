@@ -38,3 +38,42 @@ This point delves into the **design trade-offs** associated with operating a CMO
 ---
 
 ## 46-L3 Sky130 Supply Variation Labs
+
+-> ngspice day5_inv_supplyvariation_Wp1_Wn036.spice
+<img width="1213" height="671" alt="1 ngspice day_5 supply variation" src="https://github.com/user-attachments/assets/c33640c4-bea8-46f1-a88a-b09270b0f8f1" />
+
+-> Input Voltage vs Output Voltage
+<img width="1213" height="678" alt="2 input voltage vs output voltage" src="https://github.com/user-attachments/assets/d6e19330-a40d-4e59-9e2d-f45104492282" />
+
+-> Calculating Gain
+<img width="303" height="105" alt="3 Calculating Gain" src="https://github.com/user-attachments/assets/eab88877-c5c0-418f-b192-8d9719ce7df2" />
+
+Subtracting Y values : 1.69 - 0.11 = 1.58
+
+Now
+
+Subtracting X values : 0.78 - 0.97 = -0.19
+
+So; ```python?code_reference&code_event_index=1
+# Define the two values
+Y = 1.58
+X = -0.19
+
+# Calculate the ratio (value1 / value2)
+ratio = Y / X
+
+# Print the result
+print(f"The ratio is: {ratio}")
+
+```
+
+```text?code_stdout&code_event_index=1
+The ratio is: -8.31578947368421
+
+```
+
+The ratio of $1.58$ to $-0.19$ is approximately **$-8.32$**.
+
+$$
+\text{Ratio} = \frac{1.58}{-0.19} \approx -8.315789...
+$$
