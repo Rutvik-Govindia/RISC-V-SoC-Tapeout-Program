@@ -39,3 +39,9 @@ This point is a design analysis, investigating how **sizing the pMOS transistor*
 * Increasing the **pMOS width** ($W_p$) **increases its driving strength**.
 * This shifts the **Switching Threshold ($V_m$)** towards **$0\text{ V}$**.
 * This shift generally leads to an **increase in the Low Noise Margin ($NM_L$)** and a **decrease in the High Noise Margin ($NM_H$)**, making the inverter **skewed** towards a logic '1' input.
+
+***
+
+### 43-L5 Sky130 Noise margin labs
+
+ngspice 
