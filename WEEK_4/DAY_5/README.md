@@ -104,3 +104,15 @@ This section details the **methodology** used to analyze the effects of the vari
 
 ## 51-L5 Sky130 Device Variation Labs
 
+-> ngspice day5_inv_devicevariation_wp7_wn042.spice
+<img width="1212" height="663" alt="4 ngspice day5_inv_devicevariation_wp7_wn042 spice" src="https://github.com/user-attachments/assets/d296ccc8-aa0d-430f-899d-eb1aa17d6fe1" />
+
+-> plot out vs in
+<img width="1212" height="663" alt="5 plot out vs in" src="https://github.com/user-attachments/assets/456c3b89-6dc5-47a1-99d3-2730fac76fad" />
+
+-> Zoomed plot out vs in
+<img width="1212" height="663" alt="6 Zoomed plot out vs in" src="https://github.com/user-attachments/assets/dc1dad5a-e617-4ace-8f89-38dae0a507c5" />
+
+-> Calculating Switching Thresold
+<img width="595" height="135" alt="7 Calculating Switching Thresold" src="https://github.com/user-attachments/assets/b1e03325-6e93-4ec7-8a49-53990f56c007" />
+Therefore Swtiching Thresold = 0.98
