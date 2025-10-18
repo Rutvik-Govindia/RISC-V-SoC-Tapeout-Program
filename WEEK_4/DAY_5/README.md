@@ -115,4 +115,5 @@ This section details the **methodology** used to analyze the effects of the vari
 
 -> Calculating Switching Thresold
 <img width="595" height="135" alt="7 Calculating Switching Thresold" src="https://github.com/user-attachments/assets/b1e03325-6e93-4ec7-8a49-53990f56c007" />
+
 Therefore Swtiching Thresold = 0.98
