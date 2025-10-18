@@ -44,4 +44,14 @@ This point is a design analysis, investigating how **sizing the pMOS transistor*
 
 ### 43-L5 Sky130 Noise margin labs
 
-ngspice 
+-> day4_inv_noisemargin_wp1_wn036.spice
+<img width="1210" height="683" alt="1 ngspice day_4 noise margin" src="https://github.com/user-attachments/assets/fda134a8-4a90-4b59-a23c-f7ebae5f3835" />
+
+-> plot out vs in
+<img width="1210" height="683" alt="2 plot out vs in" src="https://github.com/user-attachments/assets/4dec3857-684a-4865-b559-0ba279669b79" />
+
+-> Calculating Noice Margin by putting cursor on the graph
+<img width="296" height="100" alt="3 Calculating Noise Margin by putting cusror on the graph" src="https://github.com/user-attachments/assets/01f0acf4-ba5f-4113-967c-f7522977631d" />
+Therefore; Noise Margin High = 1.71 - 0.97 = 0.74
+And
+Noise Margin Low = 0.76 - 0.12 = 0.64
