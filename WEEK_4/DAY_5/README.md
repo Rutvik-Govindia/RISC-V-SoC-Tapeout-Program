@@ -34,3 +34,7 @@ This point delves into the **design trade-offs** associated with operating a CMO
 * **Reduced Noise Margins:** A lower $V_{DD}$ means the difference between a high voltage level and a low voltage level is smaller, which directly reduces the **noise margins** and makes the circuit more susceptible to noise and process variation.
 * **Increased Subthreshold Leakage Power:** To compensate for the speed loss, the threshold voltage ($V_T$) is often reduced, which leads to an exponential increase in **leakage current** (static power consumption) when the transistor is nominally "off."
 * **Sensitivity to Process Variation:** Circuits operating near the threshold voltage are much more sensitive to manufacturing variations in transistor parameters ($V_T$, channel length, etc.), which can lead to larger variations in speed and power across different manufactured chips.
+
+---
+
+## 46-L3 Sky130 Supply Variation Labs
