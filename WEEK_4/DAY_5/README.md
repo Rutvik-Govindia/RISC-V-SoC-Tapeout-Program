@@ -54,24 +54,7 @@ Now
 
 Subtracting X values : 0.78 - 0.97 = -0.19
 
-So; ```python?code_reference&code_event_index=1
-# Define the two values
-Y = 1.58
-X = -0.19
-
-# Calculate the ratio (value1 / value2)
-ratio = Y / X
-
-# Print the result
-print(f"The ratio is: {ratio}")
-
-```
-
-```text?code_stdout&code_event_index=1
-The ratio is: -8.31578947368421
-
-```
-
+So;
 The ratio of $1.58$ to $-0.19$ is approximately **$-8.32$**.
 
 $$
