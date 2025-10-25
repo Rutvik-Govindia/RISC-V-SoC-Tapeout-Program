@@ -1,4 +1,4 @@
-## Static Behavior Evaluation – CMOS Inverter Robustness – Power Supply Variation
+## Cloning OpenROAD Flow Scripts
 
 This is the overall topic, which deals with how a **CMOS inverter** (the fundamental building block of digital logic) performs and maintains its reliability when the **power supply voltage ($V_{DD}$)** changes. **Static behavior** refers to the circuit's operation when the inputs are held constant, as opposed to dynamic behavior, which considers switching speed and power consumption. **Robustness** here means the circuit's ability to maintain its intended logic function and noise margins despite these variations.
 
