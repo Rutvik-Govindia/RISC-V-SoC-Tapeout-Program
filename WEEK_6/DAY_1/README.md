@@ -1,4 +1,4 @@
-## 🚀 Inception of Open-Source EDA, OpenLANE, and Sky130 PDK
+## Inception of Open-Source EDA, OpenLANE, and Sky130 PDK
 
 * **Open-Source EDA (Electronic Design Automation):**
     * Refers to **free and publicly available software tools** (e.g., Yosys, Magic, OpenSTA) used for designing and verifying complex integrated circuits (ICs).
@@ -12,7 +12,7 @@
 
 ---
 
-## 💻 How to Talk to Computers
+## How to Talk to Computers
 
 ### 2. Introduction to QFN-48 Package, Chip, Pads, Core, Die, and IPs
 
